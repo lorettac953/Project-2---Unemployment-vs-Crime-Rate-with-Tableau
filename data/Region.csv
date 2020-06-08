@@ -1,52 +1,52 @@
-﻿Value,Description,State
-1,Northeast,Connecticut
-1,Northeast,Maine
-1,Northeast,Massachusetts
-1,Northeast,New Hampshire
-1,Northeast,New Jersey
-1,Northeast,New York
-1,Northeast,Pennsylvania
-1,Northeast,Rhode Island
-1,Northeast,Vermont
-2,Midwest,Illinois
-2,Midwest,Indiana
-2,Midwest,Iowa
-2,Midwest,Kansas
-2,Midwest,Michigan
-2,Midwest,Minnesota
-2,Midwest,Missouri
-2,Midwest,Nebraska
-2,Midwest,North Dakota
-2,Midwest,Ohio
-2,Midwest,South Dakota
-2,Midwest,Wisconsin
-3,South,District of Columbia
-3,South,Alabama
-3,South,Arkansas
-3,South,Delaware
-3,South,Florida
-3,South,Georgia
-3,South,Kentucky
-3,South,Louisiana
-3,South,Maryland
-3,South,Mississippi
-3,South,North Carolina
-3,South,Oklahoma
-3,South,South Carolina
-3,South,Tennessee
-3,South,Texas
-3,South,Virginia
-3,South,West Virginia
-4,West,Alaska
-4,West,Arizona
-4,West,California
-4,West,Colorado
-4,West,Hawaii
-4,West,Idaho
-4,West,Montana
-4,West,Nevada
-4,West,New Mexico
-4,West,Oregon
-4,West,Utah
-4,West,Washington
-4,West,Wyoming
+﻿Value,Description,State,State_Abbreviation
+1,Northeast,Connecticut,CT
+1,Northeast,Maine,ME
+1,Northeast,Massachusetts,MA
+1,Northeast,New Hampshire,NH
+1,Northeast,New Jersey,NJ
+1,Northeast,New York,NY
+1,Northeast,Pennsylvania,PA
+1,Northeast,Rhode Island,RI
+1,Northeast,Vermont,VT
+2,Midwest,Illinois,IL
+2,Midwest,Indiana,IN
+2,Midwest,Iowa,IA
+2,Midwest,Kansas,KS
+2,Midwest,Michigan,MI
+2,Midwest,Minnesota,MN
+2,Midwest,Missouri,MO
+2,Midwest,Nebraska,NE
+2,Midwest,North Dakota,ND
+2,Midwest,Ohio,OH
+2,Midwest,South Dakota,SD
+2,Midwest,Wisconsin,WI
+3,South,District of Columbia,DC
+3,South,Alabama,AL
+3,South,Arkansas,AR
+3,South,Delaware,DE
+3,South,Florida,FL
+3,South,Georgia,GA
+3,South,Kentucky,KY
+3,South,Louisiana,LA
+3,South,Maryland,MD
+3,South,Mississippi,MS
+3,South,North Carolina,NC
+3,South,Oklahoma,OK
+3,South,South Carolina,SC
+3,South,Tennessee,TN
+3,South,Texas,TX
+3,South,Virginia,VA
+3,South,West Virginia,WV
+4,West,Alaska,AK
+4,West,Arizona,AZ
+4,West,California,CA
+4,West,Colorado,CO
+4,West,Hawaii,HI
+4,West,Idaho,ID
+4,West,Montana,MT
+4,West,Nevada,NV
+4,West,New Mexico,NM
+4,West,Oregon,OR
+4,West,Utah,UT
+4,West,Washington,WA
+4,West,Wyoming,WY
