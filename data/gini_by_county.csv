@@ -1,0 +1,839 @@
+id,Geographic Area Name,County,State,Estimate!!Gini Index,Margin of Error!!Gini Index
+0500000US17093,Kendall County,Kendall, Illinois,0.3342,0.0285
+0500000US49045,Tooele County,Tooele, Utah,0.3499,0.0331
+0500000US27141,Sherburne County,Sherburne, Minnesota,0.353,0.0187
+0500000US13157,Jackson County,Jackson, Georgia,0.3549,0.0226
+0500000US51179,Stafford County,Stafford, Virginia,0.358,0.0163
+0500000US55109,St. Croix County,St. Croix, Wisconsin,0.3679,0.0192
+0500000US24017,Charles County,Charles, Maryland,0.372,0.0172
+0500000US40017,Canadian County,Canadian, Oklahoma,0.3748,0.0187
+0500000US24009,Calvert County,Calvert, Maryland,0.375,0.0332
+0500000US13223,Paulding County,Paulding, Georgia,0.376,0.0227
+0500000US20015,Butler County,Butler, Kansas,0.3771,0.022
+0500000US21015,Boone County,Boone, Kentucky,0.3775,0.0189
+0500000US18059,Hancock County,Hancock, Indiana,0.3778,0.0323
+0500000US13151,Henry County,Henry, Georgia,0.3783,0.018
+0500000US49057,Weber County,Weber, Utah,0.3784,0.017
+0500000US49011,Davis County,Davis, Utah,0.3794,0.0169
+0500000US51199,York County,York, Virginia,0.3799,0.0232
+0500000US48397,Rockwall County,Rockwall, Texas,0.3815,0.0213
+0500000US16027,Canyon County,Canyon, Idaho,0.3822,0.0234
+0500000US27003,Anoka County,Anoka, Minnesota,0.3825,0.0146
+0500000US51153,Prince William County,Prince William, Virginia,0.3829,0.0147
+0500000US48491,Williamson County,Williamson, Texas,0.3832,0.0106
+0500000US28033,DeSoto County,DeSoto, Mississippi,0.3844,0.015
+0500000US29037,Cass County,Cass, Missouri,0.386,0.0204
+0500000US51069,Frederick County,Frederick, Virginia,0.386,0.0232
+0500000US13047,Catoosa County,Catoosa, Georgia,0.387,0.0366
+0500000US13013,Barrow County,Barrow, Georgia,0.3877,0.024
+0500000US27171,Wright County,Wright, Minnesota,0.3892,0.023
+0500000US47149,Rutherford County,Rutherford, Tennessee,0.3909,0.0185
+0500000US04021,Pinal County,Pinal, Arizona,0.3916,0.0124
+0500000US21029,Bullitt County,Bullitt, Kentucky,0.3926,0.0263
+0500000US18063,Hendricks County,Hendricks, Indiana,0.393,0.0335
+0500000US51085,Hanover County,Hanover, Virginia,0.3935,0.0252
+0500000US08035,Douglas County,Douglas, Colorado,0.3947,0.0147
+0500000US40145,Wagoner County,Wagoner, Oklahoma,0.3947,0.0196
+0500000US42025,Carbon County,Carbon, Pennsylvania,0.3954,0.0212
+0500000US26093,Livingston County,Livingston, Michigan,0.3957,0.0153
+0500000US24037,St. Mary's County,St. Mary's, Maryland,0.3958,0.0233
+0500000US30049,Lewis and Clark County,Lewis and Clark, Montana,0.3963,0.0312
+0500000US27139,Scott County,Scott, Minnesota,0.3964,0.018
+0500000US42001,Adams County,Adams, Pennsylvania,0.397,0.0212
+0500000US29183,St. Charles County,St. Charles, Missouri,0.3974,0.0112
+0500000US26139,Ottawa County,Ottawa, Michigan,0.3975,0.0149
+0500000US13297,Walton County,Walton, Georgia,0.3982,0.0256
+0500000US53067,Thurston County,Thurston, Washington,0.3982,0.0135
+0500000US13117,Forsyth County,Forsyth, Georgia,0.3996,0.0147
+0500000US18109,Morgan County,Morgan, Indiana,0.3997,0.0399
+0500000US51015,Augusta County,Augusta, Virginia,0.3998,0.0446
+0500000US26037,Clinton County,Clinton, Michigan,0.3999,0.0283
+0500000US42075,Lebanon County,Lebanon, Pennsylvania,0.3999,0.0207
+0500000US24015,Cecil County,Cecil, Maryland,0.4,0.0257
+0500000US28121,Rankin County,Rankin, Mississippi,0.4002,0.024
+0500000US13015,Bartow County,Bartow, Georgia,0.4003,0.0277
+0500000US39169,Wayne County,Wayne, Ohio,0.4006,0.0284
+0500000US06075,San Francisco County,San Francisco, California,0.5227,0.01
+0500000US18053,Grant County,Grant, Indiana,0.4014,0.0286
+0500000US54003,Berkeley County,Berkeley, West Virginia,0.4015,0.0287
+0500000US48099,Coryell County,Coryell, Texas,0.4018,0.0223
+0500000US55131,Washington County,Washington, Wisconsin,0.4033,0.028
+0500000US24033,Prince George's County,Prince George's, Maryland,0.4034,0.007
+0500000US29051,Cole County,Cole, Missouri,0.4035,0.0406
+0500000US47189,Wilson County,Wilson, Tennessee,0.4037,0.0239
+0500000US48251,Johnson County,Johnson, Texas,0.4038,0.0234
+0500000US18081,Johnson County,Johnson, Indiana,0.4039,0.0248
+0500000US26005,Allegan County,Allegan, Michigan,0.404,0.0239
+0500000US41019,Douglas County,Douglas, Oregon,0.404,0.0229
+0500000US53061,Snohomish County,Snohomish, Washington,0.4041,0.0091
+0500000US06107,Tulare County,Tulare, California,0.5055,0.0236
+0500000US53041,Lewis County,Lewis, Washington,0.4044,0.0298
+0500000US08123,Weld County,Weld, Colorado,0.4045,0.013
+0500000US51107,Loudoun County,Loudoun, Virginia,0.4052,0.0203
+0500000US37101,Johnston County,Johnston, North Carolina,0.4053,0.0234
+0500000US12119,Sumter County,Sumter, Florida,0.4055,0.0387
+0500000US18005,Bartholomew County,Bartholomew, Indiana,0.4055,0.0225
+0500000US18085,Kosciusko County,Kosciusko, Indiana,0.4059,0.0304
+0500000US39023,Clark County,Clark, Ohio,0.4064,0.0211
+0500000US05125,Saline County,Saline, Arkansas,0.4071,0.028
+0500000US51061,Fauquier County,Fauquier, Virginia,0.4071,0.0351
+0500000US53045,Mason County,Mason, Washington,0.4071,0.0286
+0500000US36083,Rensselaer County,Rensselaer, New York,0.4072,0.0252
+0500000US55117,Sheboygan County,Sheboygan, Wisconsin,0.4074,0.0209
+0500000US29047,Clay County,Clay, Missouri,0.4075,0.0153
+0500000US49005,Cache County,Cache, Utah,0.4084,0.0216
+0500000US17197,Will County,Will, Illinois,0.4087,0.0111
+0500000US24021,Frederick County,Frederick, Maryland,0.4088,0.0163
+0500000US36053,Madison County,Madison, New York,0.4088,0.0288
+0500000US51161,Roanoke County,Roanoke, Virginia,0.4088,0.0243
+0500000US51550,Chesapeake city,Chesapea, Virginia,0.4088,0.0259
+0500000US37069,Franklin County,Franklin, North Carolina,0.4089,0.0322
+0500000US37133,Onslow County,Onslow, North Carolina,0.4089,0.0333
+0500000US01115,St. Clair County,St. Clair, Alabama,0.409,0.0281
+0500000US24027,Howard County,Howard, Maryland,0.409,0.0148
+0500000US48187,Guadalupe County,Guadalupe, Texas,0.4096,0.0246
+0500000US36019,Clinton County,Clinton, New York,0.4097,0.0284
+0500000US27037,Dakota County,Dakota, Minnesota,0.4101,0.0112
+0500000US46099,Minnehaha County,Minnehaha, South Dakota,0.4103,0.0198
+0500000US24025,Harford County,Harford, Maryland,0.4107,0.0154
+0500000US51041,Chesterfield County,Chesterfield, Virginia,0.4107,0.0151
+0500000US13063,Clayton County,Clayton, Georgia,0.4108,0.0227
+0500000US19049,Dallas County,Dallas, Iowa,0.411,0.0262
+0500000US27019,Carver County,Carver, Minnesota,0.411,0.0226
+0500000US38015,Burleigh County,Burleigh, North Dakota,0.411,0.0238
+0500000US17111,McHenry County,McHenry, Illinois,0.4112,0.0196
+0500000US48497,Wise County,Wise, Texas,0.4116,0.0362
+0500000US26103,Marquette County,Marquette, Michigan,0.4117,0.0299
+0500000US51177,Spotsylvania County,Spotsylvania, Virginia,0.4118,0.0344
+0500000US39103,Medina County,Medina, Ohio,0.4119,0.0206
+0500000US34015,Gloucester County,Gloucester, New Jersey,0.412,0.0127
+0500000US55055,Jefferson County,Jefferson, Wisconsin,0.4121,0.0287
+0500000US16005,Bannock County,Bannock, Idaho,0.4125,0.0208
+0500000US24013,Carroll County,Carroll, Maryland,0.4125,0.0249
+0500000US55071,Manitowoc County,Manitowoc, Wisconsin,0.4126,0.0191
+0500000US18039,Elkhart County,Elkhart, Indiana,0.4128,0.0182
+0500000US53025,Grant County,Grant, Washington,0.413,0.0263
+0500000US06037,Los Angeles County,Los Angeles, California,0.5016,0.0035
+0500000US41043,Linn County,Linn, Oregon,0.4132,0.0285
+0500000US26115,Monroe County,Monroe, Michigan,0.4136,0.0219
+0500000US37031,Carteret County,Carteret, North Carolina,0.4137,0.022
+0500000US34037,Sussex County,Sussex, New Jersey,0.4141,0.0211
+0500000US29099,Jefferson County,Jefferson, Missouri,0.4145,0.0383
+0500000US01083,Limestone County,Limestone, Alabama,0.4149,0.031
+0500000US29021,Buchanan County,Buchanan, Missouri,0.415,0.0287
+0500000US55105,Rock County,Rock, Wisconsin,0.4151,0.0327
+0500000US47155,Sevier County,Sevier, Tennessee,0.4153,0.0267
+0500000US55087,Outagamie County,Outagamie, Wisconsin,0.4156,0.0188
+0500000US31153,Sarpy County,Sarpy, Nebraska,0.4157,0.0255
+0500000US55027,Dodge County,Dodge, Wisconsin,0.4159,0.0369
+0500000US08001,Adams County,Adams, Colorado,0.4161,0.0211
+0500000US01051,Elmore County,Elmore, Alabama,0.4162,0.0361
+0500000US37085,Harnett County,Harnett, North Carolina,0.4163,0.0226
+0500000US17179,Tazewell County,Tazewell, Illinois,0.4174,0.0349
+0500000US23031,York County,York, Maine,0.4175,0.0166
+0500000US35043,Sandoval County,Sandoval, New Mexico,0.4175,0.0187
+0500000US13073,Columbia County,Columbia, Georgia,0.418,0.024
+0500000US39041,Delaware County,Delaware, Ohio,0.418,0.019
+0500000US39165,Warren County,Warren, Ohio,0.4182,0.0235
+0500000US48381,Randall County,Randall, Texas,0.4182,0.021
+0500000US26155,Shiawassee County,Shiawassee, Michigan,0.4183,0.028
+0500000US42081,Lycoming County,Lycoming, Pennsylvania,0.4183,0.0187
+0500000US13247,Rockdale County,Rockdale, Georgia,0.4184,0.0333
+0500000US36051,Livingston County,Livingston, New York,0.4185,0.0351
+0500000US36079,Putnam County,Putnam, New York,0.4188,0.0268
+0500000US47147,Robertson County,Robertson, Tennessee,0.419,0.0364
+0500000US48291,Liberty County,Liberty, Texas,0.419,0.0342
+0500000US18019,Clark County,Clark, Indiana,0.4192,0.0274
+0500000US39013,Belmont County,Belmont, Ohio,0.4196,0.0285
+0500000US53021,Franklin County,Franklin, Washington,0.42,0.0645
+0500000US18067,Howard County,Howard, Indiana,0.4202,0.0327
+0500000US51810,Virginia Beach city,Virginia Bea, Virginia,0.4205,0.0119
+0500000US09013,Tolland County,Tolland, Connecticut,0.4206,0.0221
+0500000US39109,Miami County,Miami, Ohio,0.4206,0.0276
+0500000US24003,Anne Arundel County,Anne Arundel, Maryland,0.4212,0.0154
+0500000US18127,Porter County,Porter, Indiana,0.4213,0.017
+0500000US41067,Washington County,Washington, Oregon,0.4213,0.0133
+0500000US26045,Eaton County,Eaton, Michigan,0.4216,0.0349
+0500000US53035,Kitsap County,Kitsap, Washington,0.4216,0.0153
+0500000US35025,Lea County,Lea, New Mexico,0.4217,0.0279
+0500000US49049,Utah County,Utah, Utah,0.4218,0.0158
+0500000US02020,Anchorage Municipality,Anchorage Munic, Alaska,0.4219,0.0161
+0500000US26091,Lenawee County,Lenawee, Michigan,0.422,0.0237
+0500000US31109,Lancaster County,Lancaster, Nebraska,0.422,0.0103
+0500000US36009,Cattaraugus County,Cattaraugus, New York,0.422,0.021
+0500000US08059,Jefferson County,Jefferson, Colorado,0.4222,0.0098
+0500000US12019,Clay County,Clay, Florida,0.4223,0.0321
+0500000US27163,Washington County,Washington, Minnesota,0.4224,0.0168
+0500000US39085,Lake County,Lake, Ohio,0.4224,0.0223
+0500000US44009,Washington County,Washington, Rhode Island,0.4224,0.0245
+0500000US48361,Orange County,Orange, Texas,0.4225,0.0305
+0500000US53011,Clark County,Clark, Washington,0.4225,0.0122
+0500000US53053,Pierce County,Pierce, Washington,0.4225,0.0109
+0500000US36045,Jefferson County,Jefferson, New York,0.4226,0.0263
+0500000US41047,Marion County,Marion, Oregon,0.4226,0.0205
+0500000US48027,Bell County,Bell, Texas,0.4226,0.0226
+0500000US55039,Fond du Lac County,Fond du Lac, Wisconsin,0.4226,0.0343
+0500000US42021,Cambria County,Cambria, Pennsylvania,0.4227,0.014
+0500000US36091,Saratoga County,Saratoga, New York,0.4228,0.0191
+0500000US41059,Umatilla County,Umatilla, Oregon,0.4228,0.0254
+0500000US48257,Kaufman County,Kaufman, Texas,0.4229,0.0366
+0500000US41035,Klamath County,Klamath, Oregon,0.423,0.0306
+0500000US09015,Windham County,Windham, Connecticut,0.4233,0.0316
+0500000US20209,Wyandotte County,Wyandotte, Kansas,0.4234,0.0203
+0500000US06113,Yolo County,Yolo, California,0.49,0.0227
+0500000US12113,Santa Rosa County,Santa Rosa, Florida,0.4238,0.0253
+0500000US45063,Lexington County,Lexington, South Carolina,0.4239,0.0136
+0500000US55035,Eau Claire County,Eau Claire, Wisconsin,0.424,0.0278
+0500000US13077,Coweta County,Coweta, Georgia,0.4242,0.0214
+0500000US53005,Benton County,Benton, Washington,0.4247,0.0203
+0500000US29043,Christian County,Christian, Missouri,0.4248,0.0341
+0500000US42089,Monroe County,Monroe, Pennsylvania,0.425,0.0255
+0500000US39089,Licking County,Licking, Ohio,0.4251,0.0232
+0500000US51800,Suffolk city,Suffo, Virginia,0.4251,0.0244
+0500000US48021,Bastrop County,Bastrop, Texas,0.4253,0.0291
+0500000US39157,Tuscarawas County,Tuscarawas, Ohio,0.4254,0.0207
+0500000US13135,Gwinnett County,Gwinnett, Georgia,0.4255,0.0145
+0500000US53077,Yakima County,Yakima, Washington,0.4258,0.0201
+0500000US13057,Cherokee County,Cherokee, Georgia,0.426,0.0223
+0500000US45055,Kershaw County,Kershaw, South Carolina,0.426,0.0345
+0500000US08014,Broomfield County,Broomfield, Colorado,0.4262,0.0327
+0500000US55141,Wood County,Wood, Wisconsin,0.4263,0.0306
+0500000US39045,Fairfield County,Fairfield, Ohio,0.4268,0.0276
+0500000US48005,Angelina County,Angelina, Texas,0.427,0.0281
+0500000US26099,Macomb County,Macomb, Michigan,0.4271,0.0094
+0500000US37035,Catawba County,Catawba, North Carolina,0.4273,0.017
+0500000US39003,Allen County,Allen, Ohio,0.4273,0.0275
+0500000US13313,Whitfield County,Whitfield, Georgia,0.4274,0.0235
+0500000US48039,Brazoria County,Brazoria, Texas,0.4278,0.0195
+0500000US13255,Spalding County,Spalding, Georgia,0.4279,0.0399
+0500000US21185,Oldham County,Oldham, Kentucky,0.4279,0.0251
+0500000US55097,Portage County,Portage, Wisconsin,0.4279,0.0333
+0500000US29071,Franklin County,Franklin, Missouri,0.428,0.0348
+0500000US35005,Chaves County,Chaves, New Mexico,0.428,0.0241
+0500000US33015,Rockingham County,Rockingham, New Hampshire,0.4282,0.0153
+0500000US18095,Madison County,Madison, Indiana,0.4285,0.0214
+0500000US12097,Osceola County,Osceola, Florida,0.4286,0.0214
+0500000US23001,Androscoggin County,Androscoggin, Maine,0.4287,0.0188
+0500000US38101,Ward County,Ward, North Dakota,0.4287,0.0298
+0500000US09011,New London County,New London, Connecticut,0.4291,0.0139
+0500000US37019,Brunswick County,Brunswick, North Carolina,0.4291,0.018
+0500000US48139,Ellis County,Ellis, Texas,0.4291,0.0691
+0500000US42039,Crawford County,Crawford, Pennsylvania,0.4296,0.0344
+0500000US27131,Rice County,Rice, Minnesota,0.4299,0.024
+0500000US55127,Walworth County,Walworth, Wisconsin,0.4299,0.0232
+0500000US39025,Clermont County,Clermont, Ohio,0.4301,0.0175
+0500000US42005,Armstrong County,Armstrong, Pennsylvania,0.4301,0.0239
+0500000US27145,Stearns County,Stearns, Minnesota,0.4302,0.0201
+0500000US15003,Honolulu County,Honolulu, Hawaii,0.4303,0.0093
+0500000US26055,Grand Traverse County,Grand Traverse, Michigan,0.4305,0.0339
+0500000US18177,Wayne County,Wayne, Indiana,0.4306,0.0387
+0500000US29031,Cape Girardeau County,Cape Girardeau, Missouri,0.4306,0.0323
+0500000US34023,Middlesex County,Middlesex, New Jersey,0.4307,0.0111
+0500000US02090,Fairbanks North Star Borough,Fairbanks North Star , Alaska,0.4308,0.0356
+0500000US13097,Douglas County,Douglas, Georgia,0.4308,0.0281
+0500000US18043,Floyd County,Floyd, Indiana,0.4308,0.0327
+0500000US19193,Woodbury County,Woodbury, Iowa,0.4308,0.0285
+0500000US47009,Blount County,Blount, Tennessee,0.4308,0.0268
+0500000US15007,Kauai County,Kauai, Hawaii,0.431,0.0352
+0500000US45015,Berkeley County,Berkeley, South Carolina,0.4311,0.0235
+0500000US34041,Warren County,Warren, New Jersey,0.4312,0.0237
+0500000US19153,Polk County,Polk, Iowa,0.4317,0.0111
+0500000US28067,Jones County,Jones, Mississippi,0.4317,0.0367
+0500000US26025,Calhoun County,Calhoun, Michigan,0.4321,0.0201
+0500000US48121,Denton County,Denton, Texas,0.4321,0.0106
+0500000US26121,Muskegon County,Muskegon, Michigan,0.4327,0.0184
+0500000US51059,Fairfax County,Fairfax, Virginia,0.4327,0.0068
+0500000US45085,Sumter County,Sumter, South Carolina,0.4329,0.0326
+0500000US48409,San Patricio County,San Patricio, Texas,0.4329,0.0264
+0500000US42007,Beaver County,Beaver, Pennsylvania,0.433,0.0235
+0500000US42055,Franklin County,Franklin, Pennsylvania,0.433,0.0313
+0500000US40027,Cleveland County,Cleveland, Oklahoma,0.4332,0.0188
+0500000US47187,Williamson County,Williamson, Tennessee,0.4333,0.0197
+0500000US04015,Mohave County,Mohave, Arizona,0.4334,0.0207
+0500000US28049,Hinds County,Hinds, Mississippi,0.4334,0.016
+0500000US12005,Bay County,Bay, Florida,0.4339,0.0303
+0500000US26017,Bay County,Bay, Michigan,0.4341,0.0334
+0500000US34019,Hunterdon County,Hunterdon, New Jersey,0.4342,0.0183
+0500000US53029,Island County,Island, Washington,0.4342,0.0338
+0500000US17037,DeKalb County,DeKalb, Illinois,0.4346,0.0253
+0500000US47125,Montgomery County,Montgomery, Tennessee,0.4347,0.0265
+0500000US05085,Lonoke County,Lonoke, Arkansas,0.4349,0.0275
+0500000US09007,Middlesex County,Middlesex, Connecticut,0.4349,0.0208
+0500000US12111,St. Lucie County,St. Lucie, Florida,0.435,0.0227
+0500000US24043,Washington County,Washington, Maryland,0.4351,0.0229
+0500000US42133,York County,York, Pennsylvania,0.4351,0.016
+0500000US55101,Racine County,Racine, Wisconsin,0.4351,0.0162
+0500000US17161,Rock Island County,Rock Island, Illinois,0.4355,0.0232
+0500000US10001,Kent County,Kent, Delaware,0.4356,0.0221
+0500000US53009,Clallam County,Clallam, Washington,0.4356,0.0258
+0500000US36093,Schenectady County,Schenectady, New York,0.4357,0.019
+0500000US49053,Washington County,Washington, Utah,0.4358,0.0296
+0500000US19113,Linn County,Linn, Iowa,0.436,0.0176
+0500000US48085,Collin County,Collin, Texas,0.4361,0.0106
+0500000US37025,Cabarrus County,Cabarrus, North Carolina,0.4363,0.0201
+0500000US33013,Merrimack County,Merrimack, New Hampshire,0.4366,0.0202
+0500000US17119,Madison County,Madison, Illinois,0.4367,0.0138
+0500000US51013,Arlington County,Arlington, Virginia,0.4367,0.0178
+0500000US36117,Wayne County,Wayne, New York,0.4368,0.0466
+0500000US42071,Lancaster County,Lancaster, Pennsylvania,0.4368,0.0158
+0500000US22015,Bossier Parish,Bossier, Louisiana,0.4369,0.0209
+0500000US40031,Comanche County,Comanche, Oklahoma,0.4369,0.0286
+0500000US26159,Van Buren County,Van Buren, Michigan,0.4371,0.0269
+0500000US26147,St. Clair County,St. Clair, Michigan,0.4372,0.0194
+0500000US39101,Marion County,Marion, Ohio,0.4373,0.035
+0500000US39151,Stark County,Stark, Ohio,0.4373,0.0142
+0500000US51650,Hampton city,Hampt, Virginia,0.4373,0.0224
+0500000US08041,El Paso County,El Paso, Colorado,0.4374,0.0124
+0500000US27013,Blue Earth County,Blue Earth, Minnesota,0.4375,0.0281
+0500000US21117,Kenton County,Kenton, Kentucky,0.4377,0.0168
+0500000US53073,Whatcom County,Whatcom, Washington,0.4378,0.0205
+0500000US45035,Dorchester County,Dorchester, South Carolina,0.4384,0.0271
+0500000US36113,Warren County,Warren, New York,0.4385,0.0322
+0500000US39139,Richland County,Richland, Ohio,0.4386,0.0318
+0500000US48157,Fort Bend County,Fort Bend, Texas,0.4386,0.0142
+0500000US50007,Chittenden County,Chittenden, Vermont,0.4386,0.0265
+0500000US53057,Skagit County,Skagit, Washington,0.4386,0.0269
+0500000US12009,Brevard County,Brevard, Florida,0.4387,0.0117
+0500000US42063,Indiana County,Indiana, Pennsylvania,0.4387,0.028
+0500000US45083,Spartanburg County,Spartanburg, South Carolina,0.4389,0.0202
+0500000US39063,Hancock County,Hancock, Ohio,0.4393,0.0361
+0500000US06083,Santa Barbara County,Santa Barbara, California,0.4881,0.0168
+0500000US06033,Lake County,Lake, California,0.487,0.0387
+0500000US08069,Larimer County,Larimer, Colorado,0.4396,0.0167
+0500000US15009,Maui County,Maui, Hawaii,0.4396,0.0245
+0500000US49035,Salt Lake County,Salt Lake, Utah,0.4399,0.0106
+0500000US36011,Cayuga County,Cayuga, New York,0.4402,0.032
+0500000US42129,Westmoreland County,Westmoreland, Pennsylvania,0.4404,0.0138
+0500000US24045,Wicomico County,Wicomico, Maryland,0.4405,0.0266
+0500000US36103,Suffolk County,Suffolk, New York,0.4405,0.0087
+0500000US48181,Grayson County,Grayson, Texas,0.4405,0.0284
+0500000US12117,Seminole County,Seminole, Florida,0.4406,0.0117
+0500000US42069,Lackawanna County,Lackawanna, Pennsylvania,0.4406,0.0185
+0500000US36085,Richmond County,Richmond, New York,0.441,0.0119
+0500000US22105,Tangipahoa Parish,Tangipahoa, Louisiana,0.4412,0.0326
+0500000US23005,Cumberland County,Cumberland, Maine,0.4413,0.0119
+0500000US42095,Northampton County,Northampton, Pennsylvania,0.4414,0.0179
+0500000US19155,Pottawattamie County,Pottawattamie, Iowa,0.4416,0.029
+0500000US27137,St. Louis County,St. Louis, Minnesota,0.4416,0.0113
+0500000US18011,Boone County,Boone, Indiana,0.4417,0.035
+0500000US18089,Lake County,Lake, Indiana,0.4417,0.0125
+0500000US51700,Newport News city,Newport Ne, Virginia,0.4417,0.0307
+0500000US06081,San Mateo County,San Mateo, California,0.4846,0.0095
+0500000US47119,Maury County,Maury, Tennessee,0.442,0.0318
+0500000US51165,Rockingham County,Rockingham, Virginia,0.442,0.0448
+0500000US21059,Daviess County,Daviess, Kentucky,0.4421,0.0333
+0500000US22045,Iberia Parish,Iberia, Louisiana,0.4421,0.0344
+0500000US36101,Steuben County,Steuben, New York,0.4422,0.0263
+0500000US19061,Dubuque County,Dubuque, Iowa,0.4424,0.0273
+0500000US40125,Pottawatomie County,Pottawatomie, Oklahoma,0.4424,0.0252
+0500000US13067,Cobb County,Cobb, Georgia,0.4425,0.0125
+0500000US23011,Kennebec County,Kennebec, Maine,0.4426,0.0267
+0500000US29097,Jasper County,Jasper, Missouri,0.4426,0.0235
+0500000US12053,Hernando County,Hernando, Florida,0.4427,0.017
+0500000US22063,Livingston Parish,Livingston, Louisiana,0.4427,0.0384
+0500000US42011,Berks County,Berks, Pennsylvania,0.4429,0.0178
+0500000US36089,St. Lawrence County,St. Lawrence, New York,0.443,0.0202
+0500000US42073,Lawrence County,Lawrence, Pennsylvania,0.4433,0.0237
+0500000US28059,Jackson County,Jackson, Mississippi,0.4434,0.0274
+0500000US12015,Charlotte County,Charlotte, Florida,0.4435,0.0192
+0500000US39173,Wood County,Wood, Ohio,0.4436,0.0187
+0500000US56021,Laramie County,Laramie, Wyoming,0.4437,0.0384
+0500000US06041,Marin County,Marin, California,0.4837,0.0144
+0500000US37045,Cleveland County,Cleveland, North Carolina,0.444,0.032
+0500000US39029,Columbiana County,Columbiana, Ohio,0.444,0.0271
+0500000US48441,Taylor County,Taylor, Texas,0.444,0.0195
+0500000US37051,Cumberland County,Cumberland, North Carolina,0.4441,0.0197
+0500000US04005,Coconino County,Coconino, Arizona,0.4442,0.0223
+0500000US47059,Greene County,Greene, Tennessee,0.4442,0.036
+0500000US13113,Fayette County,Fayette, Georgia,0.4446,0.0324
+0500000US02170,Matanuska-Susitna Borough,Matanuska-Susitna , Alaska,0.4447,0.021
+0500000US06087,Santa Cruz County,Santa Cruz, California,0.4797,0.0184
+0500000US47165,Sumner County,Sumner, Tennessee,0.4448,0.027
+0500000US47141,Putnam County,Putnam, Tennessee,0.445,0.029
+0500000US34033,Salem County,Salem, New Jersey,0.4453,0.027
+0500000US44003,Kent County,Kent, Rhode Island,0.4453,0.0241
+0500000US48231,Hunt County,Hunt, Texas,0.4453,0.0269
+0500000US06007,Butte County,Butte, California,0.4781,0.0173
+0500000US01103,Morgan County,Morgan, Alabama,0.4455,0.0374
+0500000US34005,Burlington County,Burlington, New Jersey,0.4455,0.0147
+0500000US22005,Ascension Parish,Ascension, Louisiana,0.4456,0.0376
+0500000US37057,Davidson County,Davidson, North Carolina,0.4456,0.0259
+0500000US55025,Dane County,Dane, Wisconsin,0.4456,0.0117
+0500000US06085,Santa Clara County,Santa Clara, California,0.4751,0.0071
+0500000US06059,Orange County,Orange, California,0.4731,0.0061
+0500000US12035,Flagler County,Flagler, Florida,0.4458,0.0271
+0500000US12105,Polk County,Polk, Florida,0.4458,0.0137
+0500000US53007,Chelan County,Chelan, Washington,0.4458,0.0312
+0500000US10005,Sussex County,Sussex, Delaware,0.4459,0.0193
+0500000US51019,Bedford County,Bedford, Virginia,0.4459,0.0428
+0500000US39133,Portage County,Portage, Ohio,0.4464,0.0289
+0500000US20103,Leavenworth County,Leavenworth, Kansas,0.4465,0.0633
+0500000US42017,Bucks County,Bucks, Pennsylvania,0.4465,0.0111
+0500000US12101,Pasco County,Pasco, Florida,0.4467,0.0096
+0500000US42051,Fayette County,Fayette, Pennsylvania,0.4468,0.0243
+0500000US01055,Etowah County,Etowah, Alabama,0.4469,0.0347
+0500000US12069,Lake County,Lake, Florida,0.4469,0.0213
+0500000US30013,Cascade County,Cascade, Montana,0.4469,0.0353
+0500000US37183,Wake County,Wake, North Carolina,0.447,0.0106
+0500000US40131,Rogers County,Rogers, Oklahoma,0.447,0.0287
+0500000US42041,Cumberland County,Cumberland, Pennsylvania,0.4473,0.0184
+0500000US42111,Somerset County,Somerset, Pennsylvania,0.4474,0.0257
+0500000US26087,Lapeer County,Lapeer, Michigan,0.4475,0.0432
+0500000US41033,Josephine County,Josephine, Oregon,0.4475,0.0377
+0500000US42037,Columbia County,Columbia, Pennsylvania,0.4475,0.0289
+0500000US55009,Brown County,Brown, Wisconsin,0.4475,0.0394
+0500000US13153,Houston County,Houston, Georgia,0.4476,0.0302
+0500000US42079,Luzerne County,Luzerne, Pennsylvania,0.4477,0.0145
+0500000US33011,Hillsborough County,Hillsborough, New Hampshire,0.4478,0.0146
+0500000US39155,Trumbull County,Trumbull, Ohio,0.4482,0.0179
+0500000US06029,Kern County,Kern, California,0.4725,0.0117
+0500000US30063,Missoula County,Missoula, Montana,0.4483,0.0303
+0500000US17089,Kane County,Kane, Illinois,0.4484,0.0187
+0500000US04027,Yuma County,Yuma, Arizona,0.4486,0.0227
+0500000US18035,Delaware County,Delaware, Indiana,0.4486,0.0214
+0500000US46103,Pennington County,Pennington, South Dakota,0.4487,0.0334
+0500000US48203,Harrison County,Harrison, Texas,0.4487,0.037
+0500000US04003,Cochise County,Cochise, Arizona,0.4488,0.0313
+0500000US06047,Merced County,Merced, California,0.4696,0.0297
+0500000US42013,Blair County,Blair, Pennsylvania,0.4488,0.0288
+0500000US42029,Chester County,Chester, Pennsylvania,0.4489,0.0112
+0500000US47001,Anderson County,Anderson, Tennessee,0.4489,0.0278
+0500000US48367,Parker County,Parker, Texas,0.4491,0.0334
+0500000US06053,Monterey County,Monterey, California,0.4687,0.0167
+0500000US37071,Gaston County,Gaston, North Carolina,0.4493,0.0231
+0500000US36027,Dutchess County,Dutchess, New York,0.4494,0.0119
+0500000US12107,Putnam County,Putnam, Florida,0.4495,0.04
+0500000US36081,Queens County,Queens, New York,0.4495,0.0067
+0500000US51510,Alexandria city,Alexandr, Virginia,0.4497,0.0198
+0500000US16019,Bonneville County,Bonneville, Idaho,0.4498,0.031
+0500000US18057,Hamilton County,Hamilton, Indiana,0.4498,0.0249
+0500000US24005,Baltimore County,Baltimore, Maryland,0.4499,0.0111
+0500000US06065,Riverside County,Riverside, California,0.4687,0.0104
+0500000US34035,Somerset County,Somerset, New Jersey,0.4501,0.017
+0500000US48091,Comal County,Comal, Texas,0.4503,0.0276
+0500000US36065,Oneida County,Oneida, New York,0.4504,0.0193
+0500000US42085,Mercer County,Mercer, Pennsylvania,0.4506,0.0244
+0500000US45051,Horry County,Horry, South Carolina,0.4508,0.0229
+0500000US08101,Pueblo County,Pueblo, Colorado,0.4509,0.0247
+0500000US30031,Gallatin County,Gallatin, Montana,0.4509,0.0313
+0500000US17091,Kankakee County,Kankakee, Illinois,0.4513,0.0264
+0500000US55059,Kenosha County,Kenosha, Wisconsin,0.4513,0.0341
+0500000US25015,Hampshire County,Hampshire, Massachusetts,0.4514,0.0228
+0500000US37179,Union County,Union, North Carolina,0.4514,0.0276
+0500000US16055,Kootenai County,Kootenai, Idaho,0.4515,0.0348
+0500000US42033,Clearfield County,Clearfield, Pennsylvania,0.4515,0.0302
+0500000US12091,Okaloosa County,Okaloosa, Florida,0.4516,0.0265
+0500000US42049,Erie County,Erie, Pennsylvania,0.4519,0.0162
+0500000US08077,Mesa County,Mesa, Colorado,0.4523,0.0237
+0500000US37109,Lincoln County,Lincoln, North Carolina,0.4524,0.0361
+0500000US25011,Franklin County,Franklin, Massachusetts,0.4525,0.0321
+0500000US36059,Nassau County,Nassau, New York,0.4525,0.0079
+0500000US06019,Fresno County,Fresno, California,0.4668,0.0115
+0500000US17167,Sangamon County,Sangamon, Illinois,0.4527,0.0179
+0500000US29095,Jackson County,Jackson, Missouri,0.4527,0.0105
+0500000US30111,Yellowstone County,Yellowstone, Montana,0.4527,0.0327
+0500000US32031,Washoe County,Washoe, Nevada,0.4527,0.0183
+0500000US41005,Clackamas County,Clackamas, Oregon,0.4528,0.0184
+0500000US26075,Jackson County,Jackson, Michigan,0.4529,0.0328
+0500000US04025,Yavapai County,Yavapai, Arizona,0.4531,0.0257
+0500000US37089,Henderson County,Henderson, North Carolina,0.4531,0.0219
+0500000US13045,Carroll County,Carroll, Georgia,0.4533,0.0355
+0500000US25001,Barnstable County,Barnstable, Massachusetts,0.4533,0.0171
+0500000US39017,Butler County,Butler, Ohio,0.4533,0.0149
+0500000US55139,Winnebago County,Winnebago, Wisconsin,0.4533,0.0344
+0500000US16001,Ada County,Ada, Idaho,0.4534,0.0178
+0500000US54107,Wood County,Wood, West Virginia,0.4534,0.0248
+0500000US42019,Butler County,Butler, Pennsylvania,0.4535,0.0194
+0500000US17043,DuPage County,DuPage, Illinois,0.4541,0.0091
+0500000US29165,Platte County,Platte, Missouri,0.4541,0.0325
+0500000US39093,Lorain County,Lorain, Ohio,0.4542,0.0236
+0500000US51680,Lynchburg city,Lynchbu, Virginia,0.4543,0.0276
+0500000US55063,La Crosse County,La Crosse, Wisconsin,0.4543,0.0308
+0500000US39141,Ross County,Ross, Ohio,0.4545,0.0451
+0500000US37097,Iredell County,Iredell, North Carolina,0.4546,0.0229
+0500000US17201,Winnebago County,Winnebago, Illinois,0.4547,0.014
+0500000US36071,Orange County,Orange, New York,0.4547,0.0163
+0500000US42107,Schuylkill County,Schuylkill, Pennsylvania,0.4547,0.02
+0500000US48135,Ector County,Ector, Texas,0.4547,0.0317
+0500000US45091,York County,York, South Carolina,0.455,0.0183
+0500000US56025,Natrona County,Natrona, Wyoming,0.455,0.0404
+0500000US20173,Sedgwick County,Sedgwick, Kansas,0.4553,0.0132
+0500000US25023,Plymouth County,Plymouth, Massachusetts,0.4553,0.0137
+0500000US37049,Craven County,Craven, North Carolina,0.4553,0.032
+0500000US13031,Bulloch County,Bulloch, Georgia,0.4554,0.0318
+0500000US25027,Worcester County,Worcester, Massachusetts,0.4554,0.0095
+0500000US17183,Vermilion County,Vermilion, Illinois,0.4555,0.033
+0500000US42097,Northumberland County,Northumberland, Pennsylvania,0.4555,0.026
+0500000US29187,St. Francois County,St. Francois, Missouri,0.4556,0.0518
+0500000US41039,Lane County,Lane, Oregon,0.4556,0.0145
+0500000US53027,Grays Harbor County,Grays Harbor, Washington,0.4558,0.0449
+0500000US19169,Story County,Story, Iowa,0.4559,0.0253
+0500000US36075,Oswego County,Oswego, New York,0.4562,0.0268
+0500000US26077,Kalamazoo County,Kalamazoo, Michigan,0.4563,0.0174
+0500000US33017,Strafford County,Strafford, New Hampshire,0.4564,0.0302
+0500000US12033,Escambia County,Escambia, Florida,0.4565,0.0176
+0500000US55073,Marathon County,Marathon, Wisconsin,0.4565,0.0416
+0500000US37159,Rowan County,Rowan, North Carolina,0.4566,0.0396
+0500000US40037,Creek County,Creek, Oklahoma,0.4569,0.0374
+0500000US55133,Waukesha County,Waukesha, Wisconsin,0.4569,0.0136
+0500000US42077,Lehigh County,Lehigh, Pennsylvania,0.457,0.0133
+0500000US53063,Spokane County,Spokane, Washington,0.4575,0.0165
+0500000US45059,Laurens County,Laurens, South Carolina,0.4578,0.0382
+0500000US42125,Washington County,Washington, Pennsylvania,0.4579,0.0213
+0500000US13295,Walker County,Walker, Georgia,0.458,0.0309
+0500000US12083,Marion County,Marion, Florida,0.4581,0.0189
+0500000US06013,Contra Costa County,Contra Costa, California,0.4639,0.0083
+0500000US04013,Maricopa County,Maricopa, Arizona,0.4583,0.0058
+0500000US37155,Robeson County,Robeson, North Carolina,0.4583,0.0234
+0500000US08005,Arapahoe County,Arapahoe, Colorado,0.4584,0.0122
+0500000US13217,Newton County,Newton, Georgia,0.4585,0.0669
+0500000US18167,Vigo County,Vigo, Indiana,0.4587,0.0224
+0500000US35061,Valencia County,Valencia, New Mexico,0.4587,0.0505
+0500000US20091,Johnson County,Johnson, Kansas,0.4588,0.0149
+0500000US36055,Monroe County,Monroe, New York,0.4588,0.0091
+0500000US01117,Shelby County,Shelby, Alabama,0.4589,0.0255
+0500000US06073,San Diego County,San Diego, California,0.4631,0.005
+0500000US48309,McLennan County,McLennan, Texas,0.4589,0.016
+0500000US06101,Sutter County,Sutter, California,0.4628,0.0571
+0500000US18091,LaPorte County,LaPorte, Indiana,0.4591,0.0325
+0500000US20045,Douglas County,Douglas, Kansas,0.4592,0.0256
+0500000US36069,Ontario County,Ontario, New York,0.4592,0.0288
+0500000US36013,Chautauqua County,Chautauqua, New York,0.4595,0.0236
+0500000US37001,Alamance County,Alamance, North Carolina,0.4595,0.0296
+0500000US48451,Tom Green County,Tom Green, Texas,0.4595,0.038
+0500000US19013,Black Hawk County,Black Hawk, Iowa,0.4596,0.0246
+0500000US36001,Albany County,Albany, New York,0.4597,0.0161
+0500000US48347,Nacogdoches County,Nacogdoches, Texas,0.4597,0.0384
+0500000US37127,Nash County,Nash, North Carolina,0.46,0.0411
+0500000US53015,Cowlitz County,Cowlitz, Washington,0.46,0.0449
+0500000US36029,Erie County,Erie, New York,0.4601,0.0107
+0500000US45045,Greenville County,Greenville, South Carolina,0.4604,0.0137
+0500000US17115,Macon County,Macon, Illinois,0.4605,0.0274
+0500000US18003,Allen County,Allen, Indiana,0.4605,0.0215
+0500000US39153,Summit County,Summit, Ohio,0.4605,0.0144
+0500000US34011,Cumberland County,Cumberland, New Jersey,0.4606,0.0315
+0500000US25003,Berkshire County,Berkshire, Massachusetts,0.4608,0.0245
+0500000US41029,Jackson County,Jackson, Oregon,0.4608,0.029
+0500000US21227,Warren County,Warren, Kentucky,0.4609,0.043
+0500000US48355,Nueces County,Nueces, Texas,0.4609,0.0223
+0500000US45003,Aiken County,Aiken, South Carolina,0.461,0.0284
+0500000US12127,Volusia County,Volusia, Florida,0.4614,0.0137
+0500000US22019,Calcasieu Parish,Calcasieu, Louisiana,0.4614,0.02
+0500000US25005,Bristol County,Bristol, Massachusetts,0.4615,0.0151
+0500000US35045,San Juan County,San Juan, New Mexico,0.4615,0.0214
+0500000US18105,Monroe County,Monroe, Indiana,0.4616,0.0218
+0500000US37157,Rockingham County,Rockingham, North Carolina,0.4617,0.0325
+0500000US22055,Lafayette Parish,Lafayette, Louisiana,0.4618,0.0257
+0500000US39057,Greene County,Greene, Ohio,0.4618,0.0221
+0500000US41017,Deschutes County,Deschutes, Oregon,0.4618,0.022
+0500000US22079,Rapides Parish,Rapides, Louisiana,0.4623,0.0262
+0500000US29019,Boone County,Boone, Missouri,0.4624,0.0219
+0500000US21151,Madison County,Madison, Kentucky,0.4627,0.0369
+0500000US06001,Alameda County,Alameda, California,0.4591,0.0072
+0500000US54033,Harrison County,Harrison, West Virginia,0.4628,0.0386
+0500000US17163,St. Clair County,St. Clair, Illinois,0.463,0.0248
+0500000US42043,Dauphin County,Dauphin, Pennsylvania,0.463,0.0164
+0500000US06097,Sonoma County,Sonoma, California,0.4589,0.0144
+0500000US37151,Randolph County,Randolph, North Carolina,0.4631,0.037
+0500000US51087,Henrico County,Henrico, Virginia,0.4631,0.0175
+0500000US34001,Atlantic County,Atlantic, New Jersey,0.4633,0.0179
+0500000US39049,Franklin County,Franklin, Ohio,0.4633,0.0077
+0500000US23003,Aroostook County,Aroostook, Maine,0.4634,0.0193
+0500000US45075,Orangeburg County,Orangeburg, South Carolina,0.4635,0.0311
+0500000US21037,Campbell County,Campbell, Kentucky,0.4636,0.0335
+0500000US40101,Muskogee County,Muskogee, Oklahoma,0.4636,0.0301
+0500000US39043,Erie County,Erie, Ohio,0.4637,0.0577
+0500000US47011,Bradley County,Bradley, Tennessee,0.4637,0.0516
+0500000US06079,San Luis Obispo County,San Luis Obispo, California,0.4582,0.017
+0500000US09005,Litchfield County,Litchfield, Connecticut,0.4639,0.022
+0500000US34029,Ocean County,Ocean, New Jersey,0.464,0.0142
+0500000US01089,Madison County,Madison, Alabama,0.4643,0.0134
+0500000US13139,Hall County,Hall, Georgia,0.4643,0.0271
+0500000US10003,New Castle County,New Castle, Delaware,0.4646,0.0152
+0500000US17199,Williamson County,Williamson, Illinois,0.4649,0.046
+0500000US01015,Calhoun County,Calhoun, Alabama,0.465,0.0292
+0500000US24001,Allegany County,Allegany, Maryland,0.465,0.0325
+0500000US24031,Montgomery County,Montgomery, Maryland,0.465,0.008
+0500000US39119,Muskingum County,Muskingum, Ohio,0.465,0.0497
+0500000US48439,Tarrant County,Tarrant, Texas,0.4651,0.0087
+0500000US18141,St. Joseph County,St. Joseph, Indiana,0.4652,0.0179
+0500000US04019,Pima County,Pima, Arizona,0.4655,0.0081
+0500000US36111,Ulster County,Ulster, New York,0.4656,0.0199
+0500000US19163,Scott County,Scott, Iowa,0.4657,0.0265
+0500000US01125,Tuscaloosa County,Tuscaloosa, Alabama,0.4658,0.0244
+0500000US33005,Cheshire County,Cheshire, New Hampshire,0.466,0.0378
+0500000US37063,Durham County,Durham, North Carolina,0.466,0.0158
+0500000US38035,Grand Forks County,Grand Forks, North Dakota,0.466,0.0343
+0500000US37125,Moore County,Moore, North Carolina,0.4661,0.031
+0500000US28081,Lee County,Lee, Mississippi,0.4662,0.0409
+0500000US41053,Polk County,Polk, Oregon,0.4662,0.06
+0500000US17001,Adams County,Adams, Illinois,0.4663,0.054
+0500000US39113,Montgomery County,Montgomery, Ohio,0.4665,0.0129
+0500000US06023,Humboldt County,Humboldt, California,0.4527,0.0279
+0500000US22109,Terrebonne Parish,Terrebonne, Louisiana,0.4668,0.0466
+0500000US34031,Passaic County,Passaic, New Jersey,0.4669,0.0146
+0500000US27109,Olmsted County,Olmsted, Minnesota,0.467,0.0224
+0500000US41003,Benton County,Benton, Oregon,0.4671,0.0244
+0500000US26081,Kent County,Kent, Michigan,0.4673,0.0186
+0500000US44007,Providence County,Providence, Rhode Island,0.4676,0.0142
+0500000US48485,Wichita County,Wichita, Texas,0.4677,0.0328
+0500000US22051,Jefferson Parish,Jefferson, Louisiana,0.4679,0.0139
+0500000US05131,Sebastian County,Sebastian, Arkansas,0.468,0.0331
+0500000US36067,Onondaga County,Onondaga, New York,0.468,0.0155
+0500000US53033,King County,King, Washington,0.468,0.0066
+0500000US48479,Webb County,Webb, Texas,0.4681,0.0285
+0500000US47065,Hamilton County,Hamilton, Tennessee,0.4684,0.0163
+0500000US37037,Chatham County,Chatham, North Carolina,0.4685,0.0295
+0500000US37147,Pitt County,Pitt, North Carolina,0.4685,0.0309
+0500000US06057,Nevada County,Nevada, California,0.4501,0.0256
+0500000US06067,Sacramento County,Sacramento, California,0.4492,0.0084
+0500000US45007,Anderson County,Anderson, South Carolina,0.4687,0.0304
+0500000US05007,Benton County,Benton, Arkansas,0.4692,0.0235
+0500000US36087,Rockland County,Rockland, New York,0.4692,0.0183
+0500000US48209,Hays County,Hays, Texas,0.4692,0.0295
+0500000US26125,Oakland County,Oakland, Michigan,0.4694,0.0083
+0500000US06017,El Dorado County,El Dorado, California,0.4488,0.0223
+0500000US23019,Penobscot County,Penobscot, Maine,0.4697,0.0283
+0500000US26049,Genesee County,Genesee, Michigan,0.4699,0.0124
+0500000US04017,Navajo County,Navajo, Arizona,0.47,0.0437
+0500000US12109,St. Johns County,St. Johns, Florida,0.4701,0.0219
+0500000US17099,LaSalle County,LaSalle, Illinois,0.4702,0.0389
+0500000US16083,Twin Falls County,Twin Falls, Idaho,0.4703,0.076
+0500000US42091,Montgomery County,Montgomery, Pennsylvania,0.4703,0.0087
+0500000US37161,Rutherford County,Rutherford, North Carolina,0.4704,0.0346
+0500000US36105,Sullivan County,Sullivan, New York,0.4707,0.0317
+0500000US13215,Muscogee County,Muscogee, Georgia,0.4708,0.022
+0500000US25017,Middlesex County,Middlesex, Massachusetts,0.4708,0.0062
+0500000US37171,Surry County,Surry, North Carolina,0.4708,0.041
+0500000US48061,Cameron County,Cameron, Texas,0.4708,0.0139
+0500000US51740,Portsmouth city,Portsmou, Virginia,0.4712,0.0407
+0500000US30029,Flathead County,Flathead, Montana,0.4714,0.0328
+0500000US37027,Caldwell County,Caldwell, North Carolina,0.4714,0.036
+0500000US39055,Geauga County,Geauga, Ohio,0.4715,0.0356
+0500000US47093,Knox County,Knox, Tennessee,0.4718,0.0126
+0500000US18157,Tippecanoe County,Tippecanoe, Indiana,0.472,0.0238
+0500000US27123,Ramsey County,Ramsey, Minnesota,0.4721,0.0115
+0500000US41051,Multnomah County,Multnomah, Oregon,0.4721,0.0101
+0500000US51095,James City County,James City, Virginia,0.4721,0.0415
+0500000US48167,Galveston County,Galveston, Texas,0.4722,0.0181
+0500000US13245,Richmond County,Richmond, Georgia,0.4724,0.0268
+0500000US36063,Niagara County,Niagara, New York,0.4724,0.0275
+0500000US01003,Baldwin County,Baldwin, Alabama,0.4725,0.0271
+0500000US06077,San Joaquin County,San Joaquin, California,0.4483,0.0114
+0500000US33009,Grafton County,Grafton, New Hampshire,0.473,0.0358
+0500000US42027,Centre County,Centre, Pennsylvania,0.473,0.0212
+0500000US06061,Placer County,Placer, California,0.4458,0.0131
+0500000US37023,Burke County,Burke, North Carolina,0.4731,0.0387
+0500000US34025,Monmouth County,Monmouth, New Jersey,0.4735,0.0112
+0500000US44005,Newport County,Newport, Rhode Island,0.4735,0.0347
+0500000US34027,Morris County,Morris, New Jersey,0.4738,0.0135
+0500000US48329,Midland County,Midland, Texas,0.4742,0.028
+0500000US35035,Otero County,Otero, New Mexico,0.4743,0.0488
+0500000US45013,Beaufort County,Beaufort, South Carolina,0.4743,0.0232
+0500000US45073,Oconee County,Oconee, South Carolina,0.4743,0.025
+0500000US05031,Craighead County,Craighead, Arkansas,0.4744,0.0334
+0500000US01095,Marshall County,Marshall, Alabama,0.4746,0.0371
+0500000US72139,Trujillo Alto Municipio,Trujillo Alto Mu, Puerto Rico,0.4746,0.0292
+0500000US37129,New Hanover County,New Hanover, North Carolina,0.475,0.0216
+0500000US06111,Ventura County,Ventura, California,0.4458,0.0113
+0500000US34007,Camden County,Camden, New Jersey,0.4752,0.0134
+0500000US28089,Madison County,Madison, Mississippi,0.4757,0.0401
+0500000US41071,Yamhill County,Yamhill, Oregon,0.4757,0.0386
+0500000US45047,Greenwood County,Greenwood, South Carolina,0.476,0.0594
+0500000US39099,Mahoning County,Mahoning, Ohio,0.4761,0.026
+0500000US39009,Athens County,Athens, Ohio,0.4762,0.0268
+0500000US39007,Ashtabula County,Ashtabula, Ohio,0.4764,0.0326
+0500000US12131,Walton County,Walton, Florida,0.4766,0.0466
+0500000US45079,Richland County,Richland, South Carolina,0.4767,0.0151
+0500000US01069,Houston County,Houston, Alabama,0.4769,0.0148
+0500000US55089,Ozaukee County,Ozaukee, Wisconsin,0.477,0.0255
+0500000US39145,Scioto County,Scioto, Ohio,0.4771,0.0292
+0500000US55079,Milwaukee County,Milwaukee, Wisconsin,0.4774,0.0104
+0500000US01077,Lauderdale County,Lauderdale, Alabama,0.4775,0.0405
+0500000US05045,Faulkner County,Faulkner, Arkansas,0.4777,0.0309
+0500000US08013,Boulder County,Boulder, Colorado,0.4779,0.0147
+0500000US18097,Marion County,Marion, Indiana,0.4779,0.0112
+0500000US32003,Clark County,Clark, Nevada,0.4779,0.0086
+0500000US36007,Broome County,Broome, New York,0.4779,0.0273
+0500000US01127,Walker County,Walker, Alabama,0.4781,0.0557
+0500000US06055,Napa County,Napa, California,0.4454,0.0212
+0500000US20161,Riley County,Riley, Kansas,0.4782,0.0358
+0500000US22103,St. Tammany Parish,St. Tammany, Louisiana,0.4782,0.0212
+0500000US45077,Pickens County,Pickens, South Carolina,0.4783,0.0332
+0500000US09009,New Haven County,New Haven, Connecticut,0.4785,0.0105
+0500000US17113,McLean County,McLean, Illinois,0.4787,0.0255
+0500000US37021,Buncombe County,Buncombe, North Carolina,0.4787,0.0209
+0500000US21093,Hardin County,Hardin, Kentucky,0.4789,0.0455
+0500000US26145,Saginaw County,Saginaw, Michigan,0.4789,0.0266
+0500000US48029,Bexar County,Bexar, Texas,0.4792,0.0089
+0500000US48183,Gregg County,Gregg, Texas,0.4792,0.0318
+0500000US48339,Montgomery County,Montgomery, Texas,0.4792,0.0185
+0500000US12023,Columbia County,Columbia, Florida,0.4793,0.0586
+0500000US06025,Imperial County,Imperial, California,0.4448,0.0273
+0500000US25013,Hampden County,Hampden, Massachusetts,0.4798,0.0122
+0500000US12057,Hillsborough County,Hillsborough, Florida,0.4799,0.0081
+0500000US31055,Douglas County,Douglas, Nebraska,0.4799,0.0131
+0500000US01097,Mobile County,Mobile, Alabama,0.4805,0.0167
+0500000US72135,Toa Alta Municipio,Toa Alta Mu, Puerto Rico,0.4805,0.0292
+0500000US40143,Tulsa County,Tulsa, Oklahoma,0.4812,0.0106
+0500000US12103,Pinellas County,Pinellas, Florida,0.4816,0.0094
+0500000US20177,Shawnee County,Shawnee, Kansas,0.4817,0.0345
+0500000US26065,Ingham County,Ingham, Michigan,0.4819,0.0197
+0500000US34003,Bergen County,Bergen, New Jersey,0.482,0.0104
+0500000US05051,Garland County,Garland, Arkansas,0.4822,0.0624
+0500000US21067,Fayette County,Fayette, Kentucky,0.4825,0.0191
+0500000US22057,Lafourche Parish,Lafourche, Louisiana,0.4827,0.0329
+0500000US12081,Manatee County,Manatee, Florida,0.4828,0.0239
+0500000US42045,Delaware County,Delaware, Pennsylvania,0.4829,0.0105
+0500000US48303,Lubbock County,Lubbock, Texas,0.4829,0.0209
+0500000US05069,Jefferson County,Jefferson, Arkansas,0.4833,0.0441
+0500000US06099,Stanislaus County,Stanislaus, California,0.4438,0.0138
+0500000US13089,DeKalb County,DeKalb, Georgia,0.4837,0.0112
+0500000US36109,Tompkins County,Tompkins, New York,0.4838,0.0309
+0500000US12071,Lee County,Lee, Florida,0.4841,0.015
+0500000US06045,Mendocino County,Mendocino, California,0.4418,0.0291
+0500000US48423,Smith County,Smith, Texas,0.4846,0.0374
+0500000US18163,Vanderburgh County,Vanderburgh, Indiana,0.4847,0.0438
+0500000US29077,Greene County,Greene, Missouri,0.4847,0.0278
+0500000US48141,El Paso County,El Paso, Texas,0.4848,0.0123
+0500000US12089,Nassau County,Nassau, Florida,0.485,0.0309
+0500000US21111,Jefferson County,Jefferson, Kentucky,0.4853,0.0124
+0500000US36015,Chemung County,Chemung, New York,0.4859,0.0596
+0500000US12115,Sarasota County,Sarasota, Florida,0.486,0.0175
+0500000US48469,Victoria County,Victoria, Texas,0.486,0.0271
+0500000US37195,Wilson County,Wilson, North Carolina,0.4863,0.0317
+0500000US12095,Orange County,Orange, Florida,0.4865,0.0126
+0500000US47037,Davidson County,Davidson, Tennessee,0.4865,0.0134
+0500000US26111,Midland County,Midland, Michigan,0.4868,0.0343
+0500000US17097,Lake County,Lake, Illinois,0.4869,0.0096
+0500000US22017,Caddo Parish,Caddo, Louisiana,0.4869,0.023
+0500000US06071,San Bernardino County,San Bernardino, California,0.4394,0.0086
+0500000US12017,Citrus County,Citrus, Florida,0.487,0.0566
+0500000US26021,Berrien County,Berrien, Michigan,0.487,0.0253
+0500000US09003,Hartford County,Hartford, Connecticut,0.4874,0.0101
+0500000US35049,Santa Fe County,Santa Fe, New Mexico,0.4875,0.0215
+0500000US34039,Union County,Union, New Jersey,0.4877,0.0143
+0500000US54081,Raleigh County,Raleigh, West Virginia,0.4877,0.0397
+0500000US26073,Isabella County,Isabella, Michigan,0.4879,0.0342
+0500000US72021,Bayamón Municipio,Bayamón Mu, Puerto Rico,0.4879,0.0271
+0500000US06089,Shasta County,Shasta, California,0.4394,0.0182
+0500000US12031,Duval County,Duval, Florida,0.4882,0.0162
+0500000US37081,Guilford County,Guilford, North Carolina,0.4884,0.0159
+0500000US42003,Allegheny County,Allegheny, Pennsylvania,0.4891,0.0081
+0500000US27053,Hennepin County,Hennepin, Minnesota,0.4894,0.0086
+0500000US48453,Travis County,Travis, Texas,0.4895,0.0102
+0500000US37119,Mecklenburg County,Mecklenburg, North Carolina,0.4896,0.0084
+0500000US25021,Norfolk County,Norfolk, Massachusetts,0.4898,0.0123
+0500000US35001,Bernalillo County,Bernalillo, New Mexico,0.4898,0.0148
+0500000US06039,Madera County,Madera, California,0.4235,0.0243
+0500000US47179,Washington County,Washington, Tennessee,0.4904,0.0258
+0500000US13095,Dougherty County,Dougherty, Georgia,0.4906,0.0397
+0500000US13059,Clarke County,Clarke, Georgia,0.4907,0.0216
+0500000US35031,McKinley County,McKinley, New Mexico,0.4908,0.0291
+0500000US51121,Montgomery County,Montgomery, Virginia,0.4909,0.0218
+0500000US48375,Potter County,Potter, Texas,0.4914,0.0321
+0500000US08031,Denver County,Denver, Colorado,0.492,0.011
+0500000US29189,St. Louis County,St. Louis, Missouri,0.492,0.0094
+0500000US38017,Cass County,Cass, North Dakota,0.492,0.0292
+0500000US72013,Arecibo Municipio,Arecibo Mu, Puerto Rico,0.492,0.0287
+0500000US34009,Cape May County,Cape May, New Jersey,0.4923,0.0256
+0500000US48215,Hidalgo County,Hidalgo, Texas,0.4928,0.0158
+0500000US05145,White County,White, Arkansas,0.4929,0.0446
+0500000US48113,Dallas County,Dallas, Texas,0.4931,0.0076
+0500000US39095,Lucas County,Lucas, Ohio,0.4934,0.0161
+0500000US05143,Washington County,Washington, Arkansas,0.494,0.0242
+0500000US17143,Peoria County,Peoria, Illinois,0.494,0.0295
+0500000US12011,Broward County,Broward, Florida,0.4945,0.011
+0500000US12055,Highlands County,Highlands, Florida,0.4946,0.0419
+0500000US01073,Jefferson County,Jefferson, Alabama,0.4952,0.013
+0500000US25009,Essex County,Essex, Massachusetts,0.4955,0.0115
+0500000US48201,Harris County,Harris, Texas,0.4958,0.0046
+0500000US54011,Cabell County,Cabell, West Virginia,0.4959,0.0365
+0500000US47163,Sullivan County,Sullivan, Tennessee,0.4962,0.031
+0500000US01121,Talladega County,Talladega, Alabama,0.4965,0.0464
+0500000US34021,Mercer County,Mercer, New Jersey,0.4966,0.0177
+0500000US40109,Oklahoma County,Oklahoma, Oklahoma,0.4969,0.0145
+0500000US26163,Wayne County,Wayne, Michigan,0.497,0.0084
+0500000US13285,Troup County,Troup, Georgia,0.4975,0.046
+0500000US45031,Darlington County,Darlington, South Carolina,0.4977,0.0421
+0500000US51003,Albemarle County,Albemarle, Virginia,0.4978,0.0364
+0500000US01043,Cullman County,Cullman, Alabama,0.4981,0.0572
+0500000US26161,Washtenaw County,Washtenaw, Michigan,0.4981,0.0134
+0500000US13115,Floyd County,Floyd, Georgia,0.4987,0.0328
+0500000US37067,Forsyth County,Forsyth, North Carolina,0.4994,0.0189
+0500000US13021,Bibb County,Bibb, Georgia,0.5,0.0224
+0500000US28047,Harrison County,Harrison, Mississippi,0.5,0.0322
+0500000US01049,DeKalb County,DeKalb, Alabama,0.5003,0.0416
+0500000US48041,Brazos County,Brazos, Texas,0.5014,0.0183
+0500000US06115,Yuba County,Yuba, California,0.4131,0.0253
+0500000US13051,Chatham County,Chatham, Georgia,0.5016,0.0219
+0500000US34017,Hudson County,Hudson, New Jersey,0.5016,0.0104
+0500000US48213,Henderson County,Henderson, Texas,0.5042,0.0349
+0500000US48245,Jefferson County,Jefferson, Texas,0.5048,0.0225
+0500000US37191,Wayne County,Wayne, North Carolina,0.505,0.0555
+0500000US17019,Champaign County,Champaign, Illinois,0.5051,0.0239
+0500000US06031,Kings County,Kings, California,0.4043,0.023
+0500000US29510,St. Louis city,St. Lou, Missouri,0.5056,0.0152
+0500000US47113,Madison County,Madison, Tennessee,0.506,0.0374
+0500000US45057,Lancaster County,Lancaster, South Carolina,0.5063,0.0747
+0500000US39061,Hamilton County,Hamilton, Ohio,0.5066,0.0132
+0500000US48037,Bowie County,Bowie, Texas,0.5067,0.0391
+0500000US45019,Charleston County,Charleston, South Carolina,0.5069,0.02
+0500000US19103,Johnson County,Johnson, Iowa,0.507,0.0266
+0500000US15001,Hawaii County,Hawaii, Hawaii,0.5071,0.0407
+0500000US54039,Kanawha County,Kanawha, West Virginia,0.5073,0.0238
+0500000US40119,Payne County,Payne, Oklahoma,0.5083,0.042
+0500000US12073,Leon County,Leon, Florida,0.5089,0.0194
+0500000US51770,Roanoke city,Roano, Virginia,0.5099,0.042
+0500000US17031,Cook County,Cook, Illinois,0.5105,0.0039
+0500000US72031,Carolina Municipio,Carolina Mu, Puerto Rico,0.5108,0.0289
+0500000US13127,Glynn County,Glynn, Georgia,0.5112,0.0438
+0500000US22033,East Baton Rouge Parish,East Baton Rouge, Louisiana,0.5115,0.0247
+0500000US72137,Toa Baja Municipio,Toa Baja Mu, Puerto Rico,0.5118,0.0538
+0500000US47157,Shelby County,Shelby, Tennessee,0.5135,0.0127
+0500000US05119,Pulaski County,Pulaski, Arkansas,0.5151,0.0176
+0500000US35013,Doña Ana County,Doña Ana, New Mexico,0.5151,0.0289
+0500000US04001,Apache County,Apache, Arizona,0.5153,0.0221
+0500000US22073,Ouachita Parish,Ouachita, Louisiana,0.5155,0.0272
+0500000US24510,Baltimore city,Baltimo, Maryland,0.5158,0.0117
+0500000US12001,Alachua County,Alachua, Florida,0.5167,0.0172
+0500000US12086,Miami-Dade County,Miami-Dade, Florida,0.5175,0.0083
+0500000US45041,Florence County,Florence, South Carolina,0.5177,0.0426
+0500000US01101,Montgomery County,Montgomery, Alabama,0.5179,0.0222
+0500000US51710,Norfolk city,Norfo, Virginia,0.5179,0.038
+0500000US36005,Bronx County,Bronx, New York,0.5202,0.0116
+0500000US37193,Wilkes County,Wilkes, North Carolina,0.5204,0.0796
+0500000US39035,Cuyahoga County,Cuyahoga, Ohio,0.5204,0.0076
+0500000US51760,Richmond city,Richmo, Virginia,0.5224,0.0181
+0500000US06095,Solano County,Solano, California,0.4011,0.012
+0500000US36047,Kings County,Kings, New York,0.5237,0.0083
+0500000US25025,Suffolk County,Suffolk, Massachusetts,0.5241,0.0114
+0500000US11001,District of Columbia,District of C, District of Columbia,0.5243,0.0096
+0500000US12099,Palm Beach County,Palm Beach, Florida,0.5252,0.0092
+0500000US42101,Philadelphia County,Philadelphia, Pennsylvania,0.5253,0.0089
+0500000US54061,Monongalia County,Monongalia, West Virginia,0.5266,0.0341
+0500000US21047,Christian County,Christian, Kentucky,0.5272,0.1114
+0500000US12021,Collier County,Collier, Florida,0.5277,0.0213
+0500000US28035,Forrest County,Forrest, Mississippi,0.5287,0.082
+0500000US12085,Martin County,Martin, Florida,0.5288,0.0232
+0500000US39081,Jefferson County,Jefferson, Ohio,0.5302,0.0499
+0500000US12061,Indian River County,Indian River, Florida,0.5319,0.0412
+0500000US48471,Walker County,Walker, Texas,0.5324,0.051
+0500000US72061,Guaynabo Municipio,Guaynabo Mu, Puerto Rico,0.5351,0.0322
+0500000US13121,Fulton County,Fulton, Georgia,0.5359,0.0124
+0500000US01081,Lee County,Lee, Alabama,0.539,0.0288
+0500000US22097,St. Landry Parish,St. Landry, Louisiana,0.5397,0.0478
+0500000US28075,Lauderdale County,Lauderdale, Mississippi,0.5403,0.0552
+0500000US21145,McCracken County,McCracken, Kentucky,0.541,0.0613
+0500000US36119,Westchester County,Westchester, New York,0.5411,0.0085
+0500000US12087,Monroe County,Monroe, Florida,0.5418,0.0367
+0500000US37135,Orange County,Orange, North Carolina,0.5436,0.0434
+0500000US09001,Fairfield County,Fairfield, Connecticut,0.546,0.0099
+0500000US72025,Caguas Municipio,Caguas Mu, Puerto Rico,0.546,0.0645
+0500000US72113,Ponce Municipio,Ponce Mu, Puerto Rico,0.546,0.0342
+0500000US13185,Lowndes County,Lowndes, Georgia,0.5474,0.0388
+0500000US34013,Essex County,Essex, New Jersey,0.5539,0.0114
+0500000US22071,Orleans Parish,Orleans, Louisiana,0.5617,0.013
+0500000US72127,San Juan Municipio,San Juan Mu, Puerto Rico,0.5925,0.0169
+0500000US36061,New York County,New York, New York,0.5948,0.0087
+0500000US72097,Mayagüez Municipio,Mayagüez Mu, Puerto Rico,0.6209,0.0343
