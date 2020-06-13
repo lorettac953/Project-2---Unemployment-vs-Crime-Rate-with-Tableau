@@ -14,5 +14,7 @@ Crime: https://ucr.fbi.gov/crime-in-the-u.s/2019/preliminary-report/home
 Visualizations:
 	Dashboard:  Interactive contiguous US map showing rates by state, Scatter plots
 		
-Tableau Dashboard in Tableau Public: 
-https://public.tableau.com/views/Project2-Unemploymentvs_CrimeData/2016-2019CrimeData?:display_count=y&publish=yes&:origin=viz_share_link
+	https://apsanfilippo.github.io/project2/index.html
+
+Presentation:
+https://docs.google.com/presentation/d/1FoSSaFV1s-UuNj-C4OaqNDV6SSaExlgSGm5jAQFKPNk/edit?ts=5ee4e9aa#slide=id.g89b9fcbb8e_0_363
