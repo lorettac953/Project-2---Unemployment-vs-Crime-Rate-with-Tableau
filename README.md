@@ -6,8 +6,10 @@ Topic:  Our group has decided to look into the relationships between unemploymen
 
 Data Sets:
 Unemployment: https://fred.stlouisfed.org/series/UNRATE
+
 Income Inequality: Census.gov
-Crime: https://www.bjs.gov/developer/ncvs/index.cfm
+
+Crime: https://ucr.fbi.gov/crime-in-the-u.s/2019/preliminary-report/home
 
 “Inspiring Visualizations” 
 	Time series:  Crime Rate by year, Unemployment by year
@@ -17,5 +19,5 @@ Crime: https://www.bjs.gov/developer/ncvs/index.cfm
 		Option 1:  Here
 		Option 2: Here
 
-Github Repo 
- https://github.com/lorettac953/Project-2---Unemployment-vs-Crime-Rate
+Tableau Dashboard in Tableau Public: 
+https://public.tableau.com/views/Project2-Unemploymentvs_CrimeData/2016-2019CrimeData?:display_count=y&publish=yes&:origin=viz_share_link
