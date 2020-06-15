@@ -16,7 +16,6 @@ Visualizations:
 		
 	https://apsanfilippo.github.io/project2/index.html
 
-![Robbery](Images/Robbery.png)
 
 Presentation:
 https://docs.google.com/presentation/d/1FoSSaFV1s-UuNj-C4OaqNDV6SSaExlgSGm5jAQFKPNk/edit?ts=5ee4e9aa#slide=id.g89b9fcbb8e_0_363
